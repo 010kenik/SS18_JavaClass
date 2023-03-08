@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-import lombok.Getter;
+//import lombok.Getter;
 
 /**
  * @author ♈ k§nik
@@ -16,7 +16,7 @@ import lombok.Getter;
  * @content
  *
  */
-@Getter
+//@Getter
 public class Ex04 {
 
 	public static void main(String[] args) {

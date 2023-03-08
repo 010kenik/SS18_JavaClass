@@ -1,6 +1,5 @@
 package days17;
 
-import lombok.Singular;
 
 /**
  * @author ♈ kenik
